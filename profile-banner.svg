@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Azhar Alam — AI/ML Student</title>
+  <desc id="desc">A dark blue and teal profile banner with abstract connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#14233c"/>
+      <stop offset="100%" stop-color="#111b2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#61e6b3"/>
+      <stop offset="100%" stop-color="#74a7ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#b8c9e6" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M0 262 C220 218 355 323 580 278 S980 210 1200 260" fill="none" stroke="#61e6b3" stroke-opacity=".14" stroke-width="2"/>
+  <path d="M0 282 C210 238 368 343 610 293 S1000 229 1200 278" fill="none" stroke="#74a7ff" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="62" y="54" width="6" height="194" rx="3" fill="url(#accent)"/>
+  <text x="94" y="111" fill="#f3f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="1">AZHAR ALAM</text>
+  <text x="96" y="157" fill="#75e9bd" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="3">AI / ML STUDENT</text>
+  <text x="96" y="198" fill="#c2cde0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Building practical Python tools, assistants &amp; apps</text>
+  <rect x="96" y="222" width="202" height="34" rx="17" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".16"/>
+  <text x="197" y="245" fill="#dce8f8" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">PYTHON · STREAMLIT</text>
+  <g fill="none" stroke="url(#accent)" stroke-opacity=".72" stroke-width="2">
+    <path d="M790 92 L925 142 L1041 82 L1110 155 L1008 232 L876 214 L790 92"/>
+    <path d="M925 142 L876 214 M925 142 L1008 232 M1041 82 L1008 232" stroke-opacity=".42"/>
+    <path d="M790 92 L730 152 L790 212" stroke-opacity=".3"/>
+  </g>
+  <g fill="#101b2e" stroke="url(#accent)" stroke-width="3">
+    <circle cx="790" cy="92" r="9"/><circle cx="925" cy="142" r="11"/>
+    <circle cx="1041" cy="82" r="8"/><circle cx="1110" cy="155" r="10"/>
+    <circle cx="1008" cy="232" r="9"/><circle cx="876" cy="214" r="8"/>
+    <circle cx="730" cy="152" r="6"/>
+  </g>
+  <text x="922" y="150" fill="#eef8ff" text-anchor="middle" font-family="Consolas, monospace" font-size="17" font-weight="700">AI</text>
+  <rect x="1092" y="28" width="76" height="26" rx="13" fill="#61e6b3" fill-opacity=".13" stroke="#61e6b3" stroke-opacity=".4"/>
+  <text x="1130" y="46" fill="#8cf0ca" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">BUILD</text>
+</svg>
