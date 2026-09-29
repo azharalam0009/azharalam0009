@@ -1,40 +1,36 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="Azhar Alam — AI/ML student building Python tools" width="100%">
-</div>
 
-<div align="center">
+# 👋 Hi, I'm Azhar Alam
 
-# Hi, I'm Azhar Alam 👋
+### B.Tech CSE (AI/ML) Student • AI/ML Learner • Software Builder
 
-### AI/ML student building practical Python tools, assistants, and interactive apps.
+<p>
+  <em>Learning by building practical projects and exploring how Artificial Intelligence can solve real-world problems.</em>
+</p>
 
-[GitHub Profile](https://github.com/azharalam0009) · [My Projects](https://github.com/azharalam0009?tab=repositories)
+<br>
+
+<a href="https://github.com/azharalam0009">
+  <img src="https://img.shields.io/badge/GitHub-Azhar%20Alam-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://github.com/azharalam0009?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github" alt="Projects">
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm an AI/ML student who builds useful projects with Python, from small games to assistants that make everyday tasks easier. I enjoy turning ideas into working apps and improving them as I learn.
+I'm **Azhar Alam**, a **B.Tech Computer Science & Engineering (AI/ML) student at Jagannath University** with a strong interest in **Artificial Intelligence, Machine Learning, App Development, and Software Development**.
 
-- 🐍 Building with **Python**
-- 🖥️ Exploring desktop assistants and automation
-- 🎓 Interested in useful AI and campus tools
+I enjoy **learning by building projects** and turning ideas into practical applications. My current focus is strengthening my programming, problem-solving, data, and AI/ML foundations while continuously building useful projects.
 
-## Featured Projects
-
-| Project | What it does |
-| --- | --- |
-| [Aira Desktop Assistant](https://github.com/azharalam0009/Aira-Assistant-Project) | A Windows voice and text assistant with reminders, notes, app and file commands, and optional OpenAI answers. |
-| [Campus AI Assistant](https://github.com/azharalam0009/Campus-AI-Assistant) | A Python + Streamlit college information assistant with chat history and quick questions. |
-| [The Perfect Guess](https://github.com/azharalam0009/The-Perfect-Guess) | A number guessing game with higher/lower hints and an attempt counter. |
-| [Snake Water Game](https://github.com/azharalam0009/Snake-water-game) | A Python simulation of the classic Snake–Water–Gun game. |
-
-## Tools I Use
-
-**Python** · **Streamlit** · **OpenAI API** (optional integration in Aira)
-
----
-
-*Thanks for stopping by — feel free to explore my repositories.*
+```text
+🎓 B.Tech CSE (AI/ML)
+🤖 Artificial Intelligence & Machine Learning
+💻 Software & App Development
+🐍 Python Development
+🚀 Project-Based Learning
+🧠 Continuous Learning
