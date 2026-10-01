@@ -28,8 +28,9 @@ I'm an AI/ML student who builds useful projects with Python, from small games to
 
 | Project | What it does |
 | --- | --- |
-| [Aira Desktop Assistant](https://github.com/azharalam0009/Aira-Assistant-Project) | A Windows voice and text assistant with reminders, notes, app and file commands, and optional OpenAI answers. |
+| [Aira Desktop Assistant](https://github.com/azharalam0009/Aira-Assistant-Project) | A Windows Python voice and text assistant with wake-word commands, web and YouTube search, app and file actions, local reminders, timers, notes, calculations, system information, and optional OpenAI answers. |
 | [Campus AI Assistant](https://github.com/azharalam0009/Campus-AI-Assistant) | A Python + Streamlit college information assistant with chat history and quick questions. |
+| [Clean-Connect](https://github.com/azharalam0009/Clean-Connect-) | A waste-management prototype focused on practical community needs. |
 | [The Perfect Guess](https://github.com/azharalam0009/The-Perfect-Guess) | A number guessing game with higher/lower hints and an attempt counter. |
 | [Snake Water Game](https://github.com/azharalam0009/Snake-water-game) | A Python simulation of the classic Snake–Water–Gun game. |
 
@@ -40,6 +41,9 @@ I'm an AI/ML student who builds useful projects with Python, from small games to
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/SpeechRecognition-3867D6?style=for-the-badge" alt="SpeechRecognition">
+  <img src="https://img.shields.io/badge/pyttsx3-34495E?style=for-the-badge" alt="pyttsx3">
+  <img src="https://img.shields.io/badge/PyAudio-5C6BC0?style=for-the-badge" alt="PyAudio">
   <img src="https://img.shields.io/badge/OpenAI%20API%20(optional)-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API, optional integration">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
