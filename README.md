@@ -12,7 +12,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/azharalam0009?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories">
+</a>
+<a href="https://www.instagram.com/ajju0009__/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://leetcode.com/u/azharalam0009/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 
 <br><br>
@@ -160,15 +166,39 @@ class Azhar:
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/azharalam0009/">
+  <img src="https://leetcard.jacoblin.cool/azharalam0009?theme=dark&font=Fira+Code&ext=heatmap" alt="Azhar's LeetCode statistics and activity heatmap" width="520">
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/azharalam0009/">
+  <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode profile">
+</a>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/azhar-alam-69621a400/">
-  <img src="https://img.shields.io/badge/LinkedIn-Azhar_Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Azhar_Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/ajju0009__/">
+  <img src="https://img.shields.io/badge/Instagram-ajju0009__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://leetcode.com/u/azharalam0009/">
+  <img src="https://img.shields.io/badge/LeetCode-azharalam0009-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
 <a href="https://github.com/azharalam0009?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories">
 </a>
 
 <br><br>
